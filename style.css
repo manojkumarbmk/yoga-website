@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee+Spice&family=Caveat:wght@700&family=Merienda:wght@600&family=Noto+Serif+Vithkuqi&family=Orbitron:wght@900&family=Poppins:ital@0;1&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color: rgb(65, 64, 64);
+    --h2: font-family: 'Caveat', cursive;
+    --p:'Caveat', cursive;
+
+}
+h2{
+    font-family: 'Caveat', cursive;   
+}
+   
+p{
+    
+}
+.backgroundimg {
+    background-image: url(images/slider1\ -\ Image.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+    padding-bottom: 800px;
+}
+
+.under {
+    border-bottom: 1px solid black;
+    /* width: 90%; */
+}
